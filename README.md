@@ -1,5 +1,7 @@
 # AndroidDatingApp
-Dating App with Firebase which match user based on the selected hobbies
+
+Our dating app is a modern and innovative platform that leverages features like Firebase integration for real-time interactions, ConstraintLayout for flexible UIs, and a unique hobby-matching feature. It offers users a personalized and engaging dating experience with a strong focus on user preferences and common interests.
+
 
 Home Page <br />
 <img src="https://user-images.githubusercontent.com/114830029/199147299-9ff312a1-0031-4ce3-858d-af8af7e7d123.png" width="400" height="700">
